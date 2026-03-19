@@ -24,4 +24,4 @@ Where:
 5. The simple interest will be displayed on the screen.
 
 ## Author
-Prem
+Murali
