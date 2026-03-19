@@ -19,4 +19,5 @@ Enter the time in years
 Click the Calculate button
 The simple interest will be displayed on the screen.
 Author
-Prem
+Murali
+
